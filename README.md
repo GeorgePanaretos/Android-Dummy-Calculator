@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
@@ -60,11 +59,3 @@ Please adhere to the repository's code of conduct and maintain the quality and c
 ## License
 
 The Android Dummy Calculator repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of this license. 📜
-
-## Contact
-
-If you have any questions, suggestions, or feedback regarding the Android Dummy Calculator repository, feel free to reach out:
-
-- Issue Tracker: [GitHub Issues](https://github.com/GeorgePanaretos/Android-Dummy-Calculator/issues) 📮
-
-We value your input and are excited to hear from you! 😊
